@@ -8,6 +8,12 @@ export const Blog=()=> {
         content={"This is the first blog"}
         publishDate={"10th May 2024"}
       />
+      <BlogCard
+        authorName={"Tushar"}
+        title={"Blog1"}
+        content={"This is the first blog"}
+        publishDate={"10th May 2024"}
+      />
     </div>
   )
 }
